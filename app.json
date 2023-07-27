@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "train2",
+    "slug": "train2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "train2"
+}
